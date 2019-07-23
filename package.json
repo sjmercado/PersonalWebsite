@@ -1,0 +1,23 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Personal Website/Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjmercado/PersonalWebsite.git"
+  },
+  "author": "Samuel Mercado <samuel21mercado@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjmercado/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/sjmercado/PersonalWebsite#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

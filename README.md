@@ -1,2 +1,2 @@
 # Personal Website
-- coming soon -
+*coming soon*
