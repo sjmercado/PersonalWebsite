@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom';
 import { browserHistory } from 'react-router';
-import HomePage from './HomePage';
-import NavBar from './HeaderComponent/NavBar';
+import HomePage from './PageComponents/HomePage';
+import NavBar   from './HeaderComponent/NavBar';
+import Footer   from './FooterComponent/Footer';
 
 /* 
  * This component will also store the routes for the various (React) routes that will be 
